@@ -125,11 +125,13 @@ header-includes:
 
 Удалим полученный файлы с использованием Makefile. Для этого введём команду make clean (рис. [-@fig:005]).
 
-![Команда make clean](image/4.jpg){#fig:005 width=70%}
+![Команда make clean]![1 5](https://github.com/user-attachments/assets/3fc17c7c-58f6-4501-932a-9536eaae8d1b)
+{#fig:005 width=70%}
 
 Откроем файл report.md c помощью любого текстового редактора, например gedit (рис. [-@fig:006]).
 
-![Редактор gedit](image/6.jpg){#fig:006 width=70%}
+![Редактор gedit]![1 6](https://github.com/user-attachments/assets/c10a3ab6-8078-44e1-9e6b-9b85ab4f9662)
+{#fig:006 width=70%}
 
 Заполним и скомпилируем отчет с использованием Makefile. Проверим корректность полученных файлов (рис. [-@fig:007]).
 
@@ -145,7 +147,8 @@ header-includes:
 
 Загрузим файлы на Github (рис. [-@fig:011]).
 
-![Загрузка на Github](image/11.png){#fig:011 width=70%}
+![Загрузка на Github]![1 9](https://github.com/user-attachments/assets/97a9c761-a8a1-434a-966b-a5a404afb388)
+{#fig:011 width=70%}
 
 # Выводы
 
