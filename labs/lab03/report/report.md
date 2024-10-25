@@ -135,7 +135,7 @@ header-includes:
 
 Заполним и скомпилируем отчет с использованием Makefile. Проверим корректность полученных файлов (рис. [-@fig:007]).
 
-![Проверка]![1 11](https://github.com/user-attachments/assets/c549655d-2977-4b21-bb4d-c52031da1f9d)
+![Проверка]![1 11](https://github.com/user-attachments/assets/6a168186-4610-46de-8d3f-22de3453684d)
 {#fig:007 width=70%}
 
 Загрузим файлы на Github (рис. [-@fig:008]).
