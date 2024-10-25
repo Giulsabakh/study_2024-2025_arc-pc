@@ -135,15 +135,18 @@ header-includes:
 
 Заполним и скомпилируем отчет с использованием Makefile. Проверим корректность полученных файлов (рис. [-@fig:007]).
 
-![Проверка](image/8.png){#fig:007 width=70%}
+![Проверка]![1 10](https://github.com/user-attachments/assets/c549655d-2977-4b21-bb4d-c52031da1f9d)
+{#fig:007 width=70%}
 
 Загрузим файлы на Github (рис. [-@fig:008]).
 
-![Загрузка на Github](image/9.png){#fig:008 width=70%}
+![Загрузка на Github]![1 7](https://github.com/user-attachments/assets/76aac2df-7f8e-4255-9779-da765fc1f517)
+{#fig:008 width=70%}
 
 Приступим к выполнению задания для самостоятельной работы. В соответствующем каталоге сделаем отчёт по лабораторной работе № 2 в формате Markdown (рис. [-@fig:010]).
 
-![Отчёт по лабораторной работе №2](image/10.png){#fig:010 width=70%}
+![Отчёт по лабораторной работе №2]![1 10](https://github.com/user-attachments/assets/e0b34a00-a4bb-4897-83fb-3bed7ad8f1d6)
+{#fig:010 width=70%}
 
 Загрузим файлы на Github (рис. [-@fig:011]).
 
