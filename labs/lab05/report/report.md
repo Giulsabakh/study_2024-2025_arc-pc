@@ -234,66 +234,79 @@ int n
 ![Окно Midnight Commander]![5 2](https://github.com/user-attachments/assets/a82ab75f-5abf-406d-933d-b94e2cc7a583)
 {#fig:002 width=70%}
 
-![Каталог ~/work/arch-pc/ в Midnight Commander]![5 3](https://github.com/user-attachments/assets/1540e62e-6626-495f-8f3e-5c9eb781c66e)
+![Каталог ~/work/arch-pc/ в Midnight Commander]![5 2](https://github.com/user-attachments/assets/6de0fdb8-a74d-4be5-ac5f-6f2bcb64b646)
+
 {#fig:003 width=70%}
 
 С помощью функциональной клавиши `F7` создадим папку `lab05` и, переёдя в неё, с помощью команды `touch` создадим файл `lab5-1.asm`(рис. [-@fig:004], [-@fig:005])
 
-![Создание папки lab05]![5 4](https://github.com/user-attachments/assets/5726eb07-7e73-4203-a722-d1fb1d31a681)
-![Uploading 5.3.jpeg…]()
+![Создание папки lab05]![5 4](https://github.com/user-attachments/assets/2d47cb06-e38b-4ede-9268-d4dd336746de)
+
 {#fig:004 width=70%}
 
-![Создание файла lab5-1.asm]![5 5](https://github.com/user-attachments/assets/9079e851-3c68-4be4-bded-9ecbfd0fc3d3)
+![Создание файла lab5-1.asm]![5 4](https://github.com/user-attachments/assets/5e373783-fb26-423b-9929-676ee2249d5c)
+
+
 {#fig:005 width=70%}
 
 С помощью функциональной клавиши `F4` откроем файл `lab5-1.asm` для редактирования во встроенном редакторе. Как правило в качестве встроенного редактора `Midnight Commander` используются редакторы `nano` или `mcedit`(рис. [-@fig:006], [-@fig:007]).
 
-![Выбор редактора]![5 6](https://github.com/user-attachments/assets/5197ee2f-cddd-412e-8590-faa8dbfb0b83)
+![Выбор редактора]!![5 5](https://github.com/user-attachments/assets/5e57cc04-5859-4425-a51a-23a85a99e933)
+
 {#fig:006 width=70%}
 
-![Редактор mcedit]![5 7](https://github.com/user-attachments/assets/eca26a37-4fcc-4040-8bac-a559f3423cfd)
+![Редактор mcedit]![5 6](https://github.com/user-attachments/assets/c2cf25b8-a2ed-48c0-82ae-d1a6a3a6f012)
+
 {#fig:007 width=70%}
 
 Введём текст программы, сохраним изменения и закроем файл(рис. [-@fig:008]).
 
-![Текст программы]![5 8](https://github.com/user-attachments/assets/d7fd6648-7b3b-4ab0-ac70-d55172b8a4a7)
+![Текст программы]![5 7](https://github.com/user-attachments/assets/f15364d8-58f3-4843-b9f6-920be5a894d7)
+
 {#fig:008 width=70%}
 
 С помощью функциональной клавиши `F3` откроем файл `lab5-1.asm` для просмотра. Убедимся, что файл содержит текст программы(рис. [-@fig:009]).
 
-![Проверка]![5 9](https://github.com/user-attachments/assets/28922953-e729-4e0a-b38e-492abc6d5878)
+![Проверка]![5 8](https://github.com/user-attachments/assets/08591cc2-95c9-4e2b-bb51-9494b3cba980)
+
 {#fig:009 width=70%}
 
 Оттранслируем текст программы lab5-1.asm в объектный файл. Выполним компоновку объектного файла и запустим получившийся исполняемый файл. Программа выводит строку 'Введите строку:' и ожидает ввода с клавиатуры. На запрос введём ФИО(рис. [-@fig:010], [-@fig:011]).
 
-![Создание исполняемого файла]![5 10](https://github.com/user-attachments/assets/0e0cc2d7-bcf6-4f2d-b168-7633416f73fd)
+![Создание исполняемого файла]![5 9](https://github.com/user-attachments/assets/672b4b26-37e2-4d27-8b7a-475271084cb9)
+
 {#fig:010 width=70%}
 
-![Работа исполняемого файла]![5 11](https://github.com/user-attachments/assets/8bef0814-e691-4447-9b99-dcfb9c1c62c3)
+![Работа исполняемого файла]![5 10](https://github.com/user-attachments/assets/e8e8a134-afcb-479b-9218-ab9bcd04fd3c)
+
 {#fig:011 width=70%}
 
 Далее, скачаем файл `in_out.asm` со страницы курса в ТУИС и переместим его в папку, где находится файл с программой(рис. [-@fig:012]).
 
-![Перемещение файла in_out.asm]![5 12](https://github.com/user-attachments/assets/396a7a98-4884-48c3-8da2-4b08e0f0d6fa)
-![Uploading 5.11.jpeg…]()
+![Перемещение файла in_out.asm]![5 11](https://github.com/user-attachments/assets/844418ca-7256-48b6-a532-d28981d679d9)
+
 {#fig:012 width=70%}
 
 С помощью функциональной клавиши F6 создим копию файла lab5-1.asm с именем lab5-2.asm(рис. [-@fig:013]).
 
-![Создание копии файла lab5-1.asm]![5 13](https://github.com/user-attachments/assets/028c4244-f489-45ac-90e2-b37cb6e257ba)
+![Создание копии файла lab5-1.asm]![5 12](https://github.com/user-attachments/assets/03f69a3f-8ab4-4157-a73e-c8602838975b)
+
 {#fig:013 width=70%}
 
 Исправим текст программы в файле `lab5-2.asm` с использование подпрограмм из внешнего файла `in_out.asm`. Создадим исполняемый файл и проверим его работу(рис. [-@fig:014], [-@fig:015]).
 
-![Текст программы]![5ю14](https://github.com/user-attachments/assets/f463203b-d113-4184-b6e0-81b97e32a388)
+![Текст программы]![5 13](https://github.com/user-attachments/assets/cf02a58d-7ee9-42bb-a9e6-f9815d48fb38)
+
 {#fig:014 width=70%}
 
-![Создание и работа испоняемого файла]![5 16](https://github.com/user-attachments/assets/844beaba-f458-4612-87ca-295c87e9cb8c)
+![Создание и работа испоняемого файла]![5ю14](https://github.com/user-attachments/assets/99d2d7da-f0f8-4834-a4e8-b7bc11b7d7b8)
+
 {#fig:015 width=70%}
 
 В файле lab5-2.asm заменим подпрограмму sprintLF на sprint. Создим исполняемый файл и проверим его работу(рис. [-@fig:016]).
 
-![Создание и работа испоняемого файла]![5 16](https://github.com/user-attachments/assets/9bd48687-3af9-4fef-b188-87a9e01ecf26)
+![Создание и работа испоняемого файла]!![5 15](https://github.com/user-attachments/assets/8f29c5bd-d765-4bc2-8451-7d58831d08fa)
+
 {#fig:016 width=70%}
 
 Теперь вводимая строка выводится ниже строки 'Введите строку:'.
@@ -308,12 +321,15 @@ int n
 
 Получим исполняемый файл и проверим его работу. На приглашение ввести строку введите свою фамилию(рис. [-@fig:019]).
 
-![Создание копии файла lab5-1.asm]![5 17](https://github.com/user-attachments/assets/61f047fe-9409-4da7-9b44-28ba4b29ea92)
+![Создание копии файла lab5-1.asm]![5 16](https://github.com/user-attachments/assets/56d4a34a-d068-4186-8b4e-595988f52b51)
+
 {#fig:017 width=70%}
 
-![Измененнный текст программы](image/18.png){#fig:018 width=70%}
+![Измененнный текст программы]![5 17](https://github.com/user-attachments/assets/4e3ebb6e-c18c-4e52-ad8f-ebc610a33a76)
+{#fig:018 width=70%}
 
-![Создание и работа испоняемого файла](image/19.png){#fig:019 width=70%}
+![Создание и работа испоняемого файла]![5 18](https://github.com/user-attachments/assets/e9d81edc-07b7-49a8-a29a-21bf593f9d95)
+{#fig:019 width=70%}
 
 Создадим копию файла `lab5-2.asm`. Исправим текст программы с использование подпрограмм из внешнего файла `in_out.asm`, так чтобы она работала по следующему алгоритму(рис. [-@fig:020]):
 
@@ -323,9 +339,11 @@ int n
 
 Создадим исполняемый файл и проверьте его работу(рис. [-@fig:020]).
 
-![Измененнный текст программы](image/20.png){#fig:020 width=70%}
+![Измененнный текст программы]![5 19](https://github.com/user-attachments/assets/00c6fa54-f3c1-4f27-bdab-a65998fbc1ee)
+{#fig:020 width=70%}
 
-![Создание и работа испоняемого файла](image/21.png){#fig:021 width=70%}
+![Создание и работа испоняемого файла]![5 20](https://github.com/user-attachments/assets/9c0bd0e9-f967-4ecf-8145-abce4a4f8cfe)
+{#fig:021 width=70%}
 
 # Выводы
 
