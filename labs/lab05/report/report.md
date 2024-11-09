@@ -231,7 +231,8 @@ int n
 
 Откроем `Midnught Commander` и с помощью клавиш `↑` и `↓` перейдем в каталог `~/work/arch-pc/, созданный при выполненнии лабораторной работы №4(рис. [-@fig:002], [-@fig:003])
 
-![Окно Midnight Commander]![5 2](https://github.com/user-attachments/assets/a82ab75f-5abf-406d-933d-b94e2cc7a583)
+![Окно Midnight Commander]![5 1](https://github.com/user-attachments/assets/c5895c02-d387-400a-b31f-56ac9bac58a2)
+
 {#fig:002 width=70%}
 
 ![Каталог ~/work/arch-pc/ в Midnight Commander]![5 2](https://github.com/user-attachments/assets/6de0fdb8-a74d-4be5-ac5f-6f2bcb64b646)
@@ -240,7 +241,8 @@ int n
 
 С помощью функциональной клавиши `F7` создадим папку `lab05` и, переёдя в неё, с помощью команды `touch` создадим файл `lab5-1.asm`(рис. [-@fig:004], [-@fig:005])
 
-![Создание папки lab05]![5 4](https://github.com/user-attachments/assets/2d47cb06-e38b-4ede-9268-d4dd336746de)
+![Создание папки lab05]![5ю3](https://github.com/user-attachments/assets/7e2edb77-8ff0-4078-896e-49aacb2a4946)
+
 
 {#fig:004 width=70%}
 
