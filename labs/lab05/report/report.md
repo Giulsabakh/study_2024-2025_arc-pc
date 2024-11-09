@@ -253,7 +253,7 @@ int n
 
 С помощью функциональной клавиши `F4` откроем файл `lab5-1.asm` для редактирования во встроенном редакторе. Как правило в качестве встроенного редактора `Midnight Commander` используются редакторы `nano` или `mcedit`(рис. [-@fig:006], [-@fig:007]).
 
-![Выбор редактора]!![5 5](https://github.com/user-attachments/assets/5e57cc04-5859-4425-a51a-23a85a99e933)
+![5 5](https://github.com/user-attachments/assets/5e57cc04-5859-4425-a51a-23a85a99e933)
 
 {#fig:006 width=70%}
 
@@ -295,19 +295,15 @@ int n
 
 {#fig:013 width=70%}
 
-Исправим текст программы в файле `lab5-2.asm` с использование подпрограмм из внешнего файла `in_out.asm`. Создадим исполняемый файл и проверим его работу(рис. [-@fig:014], [-@fig:015]).
+Исправим текст программы в файле `lab5-2.asm` с использование подпрограмм из внешнего файла `in_out.asm`. Создадим исполняемый файл и проверим его работу(рис. [-@fig:014]).
 
-![Текст программы]![5 13](https://github.com/user-attachments/assets/cf02a58d-7ee9-42bb-a9e6-f9815d48fb38)
+![5 13](https://github.com/user-attachments/assets/cf02a58d-7ee9-42bb-a9e6-f9815d48fb38)
 
 {#fig:014 width=70%}
 
-![Создание и работа испоняемого файла]![5ю14](https://github.com/user-attachments/assets/99d2d7da-f0f8-4834-a4e8-b7bc11b7d7b8)
-
-{#fig:015 width=70%}
-
 В файле lab5-2.asm заменим подпрограмму sprintLF на sprint. Создим исполняемый файл и проверим его работу(рис. [-@fig:016]).
 
-![Создание и работа испоняемого файла]!![5 15](https://github.com/user-attachments/assets/8f29c5bd-d765-4bc2-8451-7d58831d08fa)
+![5 15](https://github.com/user-attachments/assets/8f29c5bd-d765-4bc2-8451-7d58831d08fa)
 
 {#fig:016 width=70%}
 
@@ -323,14 +319,14 @@ int n
 
 Получим исполняемый файл и проверим его работу. На приглашение ввести строку введите свою фамилию(рис. [-@fig:019]).
 
-![Создание копии файла lab5-1.asm]![5 16](https://github.com/user-attachments/assets/56d4a34a-d068-4186-8b4e-595988f52b51)
+![5 16](https://github.com/user-attachments/assets/56d4a34a-d068-4186-8b4e-595988f52b51)
 
 {#fig:017 width=70%}
 
-![Измененнный текст программы]![5 17](https://github.com/user-attachments/assets/4e3ebb6e-c18c-4e52-ad8f-ebc610a33a76)
+![5 17](https://github.com/user-attachments/assets/4e3ebb6e-c18c-4e52-ad8f-ebc610a33a76)
 {#fig:018 width=70%}
 
-![Создание и работа испоняемого файла]![5 18](https://github.com/user-attachments/assets/e9d81edc-07b7-49a8-a29a-21bf593f9d95)
+![5 18](https://github.com/user-attachments/assets/e9d81edc-07b7-49a8-a29a-21bf593f9d95)
 {#fig:019 width=70%}
 
 Создадим копию файла `lab5-2.asm`. Исправим текст программы с использование подпрограмм из внешнего файла `in_out.asm`, так чтобы она работала по следующему алгоритму(рис. [-@fig:020]):
@@ -341,10 +337,10 @@ int n
 
 Создадим исполняемый файл и проверьте его работу(рис. [-@fig:020]).
 
-![Измененнный текст программы]![5 19](https://github.com/user-attachments/assets/00c6fa54-f3c1-4f27-bdab-a65998fbc1ee)
+![5 19](https://github.com/user-attachments/assets/00c6fa54-f3c1-4f27-bdab-a65998fbc1ee)
 {#fig:020 width=70%}
 
-![Создание и работа испоняемого файла]![5 20](https://github.com/user-attachments/assets/9c0bd0e9-f967-4ecf-8145-abce4a4f8cfe)
+![5 20](https://github.com/user-attachments/assets/9c0bd0e9-f967-4ecf-8145-abce4a4f8cfe)
 {#fig:021 width=70%}
 
 # Выводы
