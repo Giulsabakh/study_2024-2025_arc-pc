@@ -235,7 +235,7 @@ int n
 
 {#fig:002 width=70%}
 
-![Каталог ~/work/arch-pc/ в Midnight Commander]![5 2](https://github.com/user-attachments/assets/6de0fdb8-a74d-4be5-ac5f-6f2bcb64b646)
+![5 2](https://github.com/user-attachments/assets/6de0fdb8-a74d-4be5-ac5f-6f2bcb64b646)
 
 {#fig:003 width=70%}
 
@@ -291,7 +291,7 @@ int n
 
 С помощью функциональной клавиши F6 создим копию файла lab5-1.asm с именем lab5-2.asm(рис. [-@fig:013]).
 
-![Создание копии файла lab5-1.asm]![5 12](https://github.com/user-attachments/assets/03f69a3f-8ab4-4157-a73e-c8602838975b)
+![5 12](https://github.com/user-attachments/assets/03f69a3f-8ab4-4157-a73e-c8602838975b)
 
 {#fig:013 width=70%}
 
